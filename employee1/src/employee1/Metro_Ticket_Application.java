@@ -1,5 +1,5 @@
 package employee1;
-//12345fguftu rduu 
+//12345fguftu rduu ghik
 import java.awt.EventQueue;
 
 import javax.swing.JFrame;
@@ -14,7 +14,7 @@ import java.awt.Color;
 import javax.swing.JButton;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
-
+//hohjjkh
 public class Metro_Ticket_Application {
 
 	private JFrame frame;
